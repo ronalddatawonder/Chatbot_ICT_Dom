@@ -1,4 +1,2 @@
-ipykernel
-python-dotenv
-pytest
-streamlit
+pytest==8.3.5
+streamlit==1.44.1
